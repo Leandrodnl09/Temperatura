@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Temperaturas\bin\Debug\net6.0\Temperaturas.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Temperaturas\bin\Debug\net6.0\Temperaturas.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Temperaturas\bin\Debug\net6.0\Temperaturas.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Temperaturas\bin\Debug\net6.0\Temperaturas.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Temperaturas\bin\Debug\net6.0\Temperaturas.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Temperaturas\obj\Debug\net6.0\Temperaturas.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Temperaturas\obj\Debug\net6.0\Temperaturas.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Temperaturas\obj\Debug\net6.0\Temperaturas.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Temperaturas\obj\Debug\net6.0\Temperaturas.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Temperaturas\obj\Debug\net6.0\Temperaturas.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Temperaturas\obj\Debug\net6.0\Temperaturas.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Temperaturas\obj\Debug\net6.0\refint\Temperaturas.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Temperaturas\obj\Debug\net6.0\Temperaturas.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Temperaturas\obj\Debug\net6.0\Temperaturas.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\Temperaturas\obj\Debug\net6.0\ref\Temperaturas.dll
